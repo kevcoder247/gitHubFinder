@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+}
+
+a{
+    color: #fff;
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+
+footer{
+    color: #fff;
+    font-size: 1rem;
+}
