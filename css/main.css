@@ -3,12 +3,26 @@ body{
 }
 
 a{
-    color: #fff;
+    /* color: #fff; */
     font-size: 1.6rem;
     text-decoration: none;
 }
-
+.navbar-brad{
+    color:#fff;
+}
 footer{
     color: #fff;
     font-size: 1rem;
 }
+.repo-title{
+    font-size: 2rem;
+    color:black;
+}
+
+.repo-text{
+    font-size: 1rem;
+    color: black;
+}
+
+
+
